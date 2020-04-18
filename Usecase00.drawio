@@ -1,20 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2020-04-18T01:01:17.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="WlxcdC4OYLx36_JLNgDk" version="12.9.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-18T01:16:32.249Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="gZqlanMprqadhTWTkg4k" version="12.9.14" type="github">
   <diagram id="maJ_4bPL06Fw4xMunitV" name="ページ1">
     <mxGraphModel dx="786" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bGQbT6tmHusPQ4OXHmeM-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="120" width="30" height="60" as="geometry" />
+        <object label="作番" id="EO0mQHKXrJ44aiGvSWl2-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="200" y="80" width="120" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="EO0mQHKXrJ44aiGvSWl2-2" value="装置番" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bGQbT6tmHusPQ4OXHmeM-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bGQbT6tmHusPQ4OXHmeM-3" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bGQbT6tmHusPQ4OXHmeM-1" target="bGQbT6tmHusPQ4OXHmeM-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="190" as="sourcePoint" />
-            <mxPoint x="430" y="190" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="EO0mQHKXrJ44aiGvSWl2-3" value="製作課" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
